@@ -10,7 +10,7 @@ Aquí presento el segundo proyecto de certificación para la certificación de D
 
 En todo momento, la elección del tema era libre elección, donde los únicos requisitos era cumplir con unos mínimos en HTML y CSS, los cuales, para mi sorpresa, han sido muy sencillos de cumplir.
 
-Para su creación, me he apoyado en los proyectos creados anteriormente, aprovechando todos los recursos que anteriormente había ido aprendiendo.
+Para su creación, me he apoyado en los proyectos creados anteriormente, aprovechando todos los recursos que anteriormente había ido aprendiendo, además de haber implementado media queries para dar un buen diseño web responsivo en todos los dispositivos (cosa que no había visto hasta ahora y me parece algo con millones de posibilidades).
 
 Cada día voy un poquito más segura con HTML, aunque descubro más y más funcionalidades nuevas de CSS, cosa que me encanta y me permite experimentar.
 
