@@ -7,7 +7,7 @@
 Proyecto 10: Construye una página de homenaje (proyecto de certificación) 🎯. 
 
 
-Aquí presento el segundo proyecto de certificación para la certificación de Diseño Web Responsivo 🌐💻, una página de homenaje 🎇🏆, siendo éste el segundo poyecto íntegramente creado por mi.
+Aquí presento el segundo proyecto de certificación para la certificación de Diseño Web Responsivo 🌐💻 de FreeCodeCamp, una página de homenaje 🎇🏆, siendo éste el segundo proyecto íntegramente creado por mi.
 
 En todo momento, la elección del tema era libre elección, donde los únicos requisitos 📈 era cumplir con unos mínimos en HTML y CSS 🎨, los cuales, para mi sorpresa, han sido muy sencillos de cumplir.
 
@@ -25,6 +25,7 @@ Desde que leí que el tema era libre, no tuve dudas ni sobre a qué hacerle esta
 
 
 No sé si de aquí a un tiempo iré mejorando la web 🌐 conforme adquiera conocimientos y estoy totalmente convencida de que habrá mil cosas que mejorar, tanto en nuevas funcionalidades con CSS 🎨como con la distribución del código 📈 (y la posibilidad de hacerlo más limpio), pero estoy más que satisfecha con esta creación, especialmente teniendo en cuenta que hace 20 días no había tocado HTML ni CSS, por lo que estos pequeños proyectos para la certificación, me motivan mucho a seguir aprendiendo más y más cosas sobre este mundo del desarrollo web 💫.
+
 
 
 LinkedIn: www.linkedin.com/in/auroramarinapoves
