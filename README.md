@@ -3,7 +3,8 @@
 ### Página de Homenaje (Certification Proyect) a Queen
 
 
-Proyecto 10: Construye una página de homenaje (proyecto de certificación). 
+
+Proyecto 10: Construye una página de homenaje (proyecto de certificación) 🎯. 
 
 
 Aquí presento el segundo proyecto de certificación para la certificación de Diseño Web Responsivo 🌐💻, una página de homenaje 🎇🏆, siendo éste el segundo poyecto íntegramente creado por mi.
