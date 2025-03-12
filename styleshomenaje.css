@@ -176,7 +176,7 @@ ul{
   margin-top: 1.5em;
   margin-left: 1em;
   width: 98%;
-  height: 3px; /* Grosor de la línea */
+  height: 3px;
   background-color: #EADCA6;
   opacity: 45%;
 }
